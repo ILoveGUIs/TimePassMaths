@@ -8,6 +8,7 @@ Currently supports Addition, Subtraction, Multiplication and Division as the typ
 Please report bugs and give feedback on this project.
 
 **Tested On**: Windows 10 x64 Professional
+
 *Please try it on your own operating system to increase the number of platforms on which it is tested!*
 
 
